@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "doubleclick.net",
+        "googlesyndication.com",
+        "googleadservices.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googletagservices.com",
+        "adservice.google.com",
+        "pagead2.googlesyndication.com",
+        "analytics.google.com",
+        "mc.yandex.ru",
+        "yandexadexchange.net",
+        "an.yandex.ru",
+        "ads.twitter.com",
+        "analytics.twitter.com",
+        "ads.linkedin.com",
+        "ad.mail.ru",
+        "top-fwz1.mail.ru",
+        "counter.yadro.ru",
+        "top.mail.ru",
+        "metric.gstatic.com",
+        "scorecardresearch.com",
+        "quantserve.com",
+        "outbrain.com",
+        "taboola.com",
+        "criteo.com",
+        "criteo.net",
+        "moatads.com",
+        "advertising.com",
+        "adnxs.com",
+        "adsrvr.org",
+        "demdex.net",
+        "krxd.net",
+        "bluekai.com",
+        "omtrdc.net",
+
+        "telemetry.microsoft.com",
+        "vortex.data.microsoft.com",
+        "settings-win.data.microsoft.com",
+        "watson.telemetry.microsoft.com",
+        "events.data.microsoft.com",
+        "browser.events.data.msn.com",
+        "tracking.miui.com",
+        "sa.miui.com",
+        "data.miui.com",
+        "samsungads.com",
+        "config.samsung.com"
+      ]
+    }
+  ]
+}

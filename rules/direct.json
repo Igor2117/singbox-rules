@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "microsoft.com",
+        "live.com",
+        "office.com",
+        "office.net",
+        "microsoftonline.com",
+        "windows.com",
+        "xboxlive.com",
+
+        "apple.com",
+        "icloud.com",
+        "apple-dns.net",
+        "mzstatic.com",
+
+        "steampowered.com",
+        "steamcommunity.com",
+        "steamstatic.com",
+        "steamcontent.com",
+        "valvesoftware.com",
+
+        "epicgames.com",
+        "unrealengine.com",
+
+        "riotgames.com",
+        "riotcdn.net",
+        "leagueoflegends.com",
+        "valorant.com",
+
+        "ea.com",
+        "origin.com",
+
+        "twitch.tv",
+        "ttvnw.net",
+        "jtvnw.net",
+
+        "pinterest.com",
+        "pinimg.com",
+
+        "faceit.com"
+      ]
+    }
+  ]
+}
