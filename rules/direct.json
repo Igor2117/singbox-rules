@@ -3,6 +3,16 @@
   "rules": [
     {
       "domain_suffix": [
+        "yandex.ru",
+        "yandex.net",
+        "yandex.com",
+        "yastatic.net",
+        "ya.ru",
+        "maps.yandex.ru",
+        "mc.yandex.ru",
+        "yandex-team.ru",
+        "yandexcloud.net"
+        
         "microsoft.com",
         "live.com",
         "office.com",
